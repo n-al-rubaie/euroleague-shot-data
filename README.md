@@ -94,20 +94,6 @@ The scripts include delays between API requests to reduce the risk of rate limit
 
 If the API returns a `429` response, the scripts wait before continuing.
 
-## Project Structure
-
-```text
-basketball-shots-data/
-│
-├── mike_james_2023.py
-├── kendrick_nunn_2024.py
-├── kendrick_nunn_shot_chart.R
-│
-├── mike_james_2023_shots.csv
-└── kendrick_nunn_2024_shots.csv
-```
-
-*File names may vary depending on how the scripts are organised in the repository.*
 
 ## Example Analysis
 
